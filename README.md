@@ -2,6 +2,16 @@ SEED LAB 2.0
 
 Compilation of hands on cybersecurity labs completed during CSCI157
 
+Labs are based on <a href ="https://seedsecuritylabs.org/Labs_20.04/" alt="SEED LAB 2.0">
+
+##Tools Used
+-Ubuntu v20.04 (Linux)
+-Oracle Virtual Machine
+-Docker
+-OpenSSL
+-Python
+-Bash Scripting
+-GCC 
 
 /SEED-Labs-
 │<br>
